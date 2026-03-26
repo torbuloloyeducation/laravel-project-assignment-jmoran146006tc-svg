@@ -1,4 +1,4 @@
-<x-layout><br><br><br><br>
+<x-layout>
     <h1>Homepage</h1>
 
     <nav>
